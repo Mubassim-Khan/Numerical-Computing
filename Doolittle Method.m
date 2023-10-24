@@ -1,4 +1,4 @@
-% Dolittle's Method (Lab 5)
+% Doolittle's Method (Lab 5)
 
 A = input("Enter your coefficient matrix: ")
 B = input("Enter source vector: ")
